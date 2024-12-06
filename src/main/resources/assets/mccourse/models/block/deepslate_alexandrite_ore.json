@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mccourse:block/deep_slate_alexandrite_ore"
+  }
+}
